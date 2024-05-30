@@ -1,0 +1,38 @@
+/* #box{
+    height: 400px;
+    width: 400px;
+    border: 1px solid #000;
+
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    gap: 25px;
+}
+#inner{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+@media screen and (max-width: 600px) {
+    header{
+        flex-direction: column;
+    }
+    #box{
+        height:250px;
+        width: 250px;
+    }
+
+} */
+/* .hover-example:hover{
+    color: aqua;
+}
+.hover-example:disabled{
+    background-color: red;
+}
+.hover-example type */
